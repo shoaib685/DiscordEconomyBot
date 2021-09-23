@@ -1,5 +1,5 @@
 # Welcome To Economy Discord Bot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-* This `Economy Discord Bot` Made by ```ZetNox```
+* This `Economy Discord Bot` Made by ```server/king```
 * Language : JavaScript/NodeJS (Core Lang : EN)
 * Library : Discord.js
 * Framework used : quick.eco by Snowflake Development
