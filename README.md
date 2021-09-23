@@ -27,5 +27,6 @@ Copyright 2020 © All RIghts are Reserved | If you are using any part of code pl
 
 # Dependencies 
 - *Discord.js v12*
-- *quick.eco (has a Dev dependency of quick.db and better-sqlite3*)
+- *quick.eco (has a Dev dependency of quick.db and better-sqlite3)*
+- *discord-eco (has a Dev dependency of quick.db and better-sqlite3)*
 
