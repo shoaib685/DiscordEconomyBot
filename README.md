@@ -19,7 +19,8 @@ Copyright 2020 © All RIghts are Reserved | If you are using any part of code pl
 - CodeFactor : Easily usable
 - ```slash command comeing soon```
 ## Contribute 
-### Feel free to contribute to the repository by forking it and submitting a pull request we would love to have you as a contributor! You mst read through the nginx code of conduct and the (Included) license carefully before submitting a pull request.
+* Feel free to contribute to the repository by forking it and submitting a pull request we would love to have you as a contributor! 
+* You mst read through the nginx code of conduct and the (Included) license carefully before submitting a pull request.
 #### Node Version Requirement
 ``12.x or higher``
 
